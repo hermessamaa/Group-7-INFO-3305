@@ -12,3 +12,5 @@ Task Allocation:
 
 Case Study Description
 Group 7 of Class INFO 3305 of International Islamic University Malaysia is required to create a bus reservation system which include a standard coach seating of 30 seats, arranged with three in a row (a single seat next to a double seat). A double seat has two options; aisle and window seat.
+
+This system will include a front page -----
